@@ -1,0 +1,6 @@
+﻿@{
+    Layout = "_AdminDashboardLayout";
+}
+@if(!string.IsNullOrEmpty(@TempData["success"].ToString())){
+<script>alert("@TempData["success"]");</script>
+})

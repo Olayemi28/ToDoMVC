@@ -1,0 +1,269 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = UniqueTodoApplication
+build_property.RootNamespace = UniqueTodoApplication
+build_property.ProjectDir = c:\Users\ADMIN\Desktop\TodoMVC\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = c:\Users\ADMIN\Desktop\TodoMVC
+build_property._RazorSourceGeneratorDebug = 
+
+[c:/Users/ADMIN/Desktop/TodoMVC/Views/Admin/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ADMIN/Desktop/TodoMVC/Views/Admin/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ADMIN/Desktop/TodoMVC/Views/Admin/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ADMIN/Desktop/TodoMVC/Views/Admin/GetAllAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cR2V0QWxsQWRtaW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ADMIN/Desktop/TodoMVC/Views/Admin/IndexAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXhBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ADMIN/Desktop/TodoMVC/Views/Admin/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUHJvZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ADMIN/Desktop/TodoMVC/Views/Admin/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ADMIN/Desktop/TodoMVC/Views/Category/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ADMIN/Desktop/TodoMVC/Views/Category/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ADMIN/Desktop/TodoMVC/Views/Category/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ADMIN/Desktop/TodoMVC/Views/Category/GetAllCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcR2V0QWxsQ2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ADMIN/Desktop/TodoMVC/Views/Category/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ADMIN/Desktop/TodoMVC/Views/Customer/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ADMIN/Desktop/TodoMVC/Views/Customer/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ADMIN/Desktop/TodoMVC/Views/Customer/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ADMIN/Desktop/TodoMVC/Views/Customer/GetAllCustomer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcR2V0QWxsQ3VzdG9tZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ADMIN/Desktop/TodoMVC/Views/Customer/IndexCustomer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcSW5kZXhDdXN0b21lci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ADMIN/Desktop/TodoMVC/Views/Customer/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcUHJvZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ADMIN/Desktop/TodoMVC/Views/Customer/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ADMIN/Desktop/TodoMVC/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ADMIN/Desktop/TodoMVC/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ADMIN/Desktop/TodoMVC/Views/Role/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ADMIN/Desktop/TodoMVC/Views/Role/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ADMIN/Desktop/TodoMVC/Views/Role/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ADMIN/Desktop/TodoMVC/Views/Role/GetAllRole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxHZXRBbGxSb2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ADMIN/Desktop/TodoMVC/Views/Role/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ADMIN/Desktop/TodoMVC/Views/Role/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ADMIN/Desktop/TodoMVC/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ADMIN/Desktop/TodoMVC/Views/Shared/_AdminDashboardLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pbkRhc2hib2FyZExheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ADMIN/Desktop/TodoMVC/Views/Shared/_CustomerDashboardLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9DdXN0b21lckRhc2hib2FyZExheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ADMIN/Desktop/TodoMVC/Views/Shared/_DashboardLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9EYXNoYm9hcmRMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ADMIN/Desktop/TodoMVC/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ADMIN/Desktop/TodoMVC/Views/Shared/_LayoutHome.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRIb21lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ADMIN/Desktop/TodoMVC/Views/Shared/_LayoutHomepage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRIb21lcGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ADMIN/Desktop/TodoMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ADMIN/Desktop/TodoMVC/Views/Todoitem/All.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9kb2l0ZW1cQWxsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ADMIN/Desktop/TodoMVC/Views/Todoitem/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9kb2l0ZW1cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ADMIN/Desktop/TodoMVC/Views/Todoitem/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9kb2l0ZW1cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ADMIN/Desktop/TodoMVC/Views/Todoitem/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9kb2l0ZW1cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ADMIN/Desktop/TodoMVC/Views/Todoitem/Done.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9kb2l0ZW1cRG9uZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ADMIN/Desktop/TodoMVC/Views/Todoitem/GetAllDoneTask.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9kb2l0ZW1cR2V0QWxsRG9uZVRhc2suY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ADMIN/Desktop/TodoMVC/Views/Todoitem/GetAllSkippedTask.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9kb2l0ZW1cR2V0QWxsU2tpcHBlZFRhc2suY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ADMIN/Desktop/TodoMVC/Views/Todoitem/GetAllTaskByDate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9kb2l0ZW1cR2V0QWxsVGFza0J5RGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ADMIN/Desktop/TodoMVC/Views/Todoitem/GetAllTaskByDay.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9kb2l0ZW1cR2V0QWxsVGFza0J5RGF5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ADMIN/Desktop/TodoMVC/Views/Todoitem/GetAllTaskByTime.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9kb2l0ZW1cR2V0QWxsVGFza0J5VGltZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ADMIN/Desktop/TodoMVC/Views/Todoitem/GetAllTodayTask.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9kb2l0ZW1cR2V0QWxsVG9kYXlUYXNrLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ADMIN/Desktop/TodoMVC/Views/Todoitem/GetAllTodos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9kb2l0ZW1cR2V0QWxsVG9kb3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ADMIN/Desktop/TodoMVC/Views/Todoitem/GetAllUpcomingTask.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9kb2l0ZW1cR2V0QWxsVXBjb21pbmdUYXNrLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ADMIN/Desktop/TodoMVC/Views/Todoitem/GetCustomerTaskByDate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9kb2l0ZW1cR2V0Q3VzdG9tZXJUYXNrQnlEYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ADMIN/Desktop/TodoMVC/Views/Todoitem/GetCustomerTaskByDay.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9kb2l0ZW1cR2V0Q3VzdG9tZXJUYXNrQnlEYXkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ADMIN/Desktop/TodoMVC/Views/Todoitem/GetCustomerTaskByTime.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9kb2l0ZW1cR2V0Q3VzdG9tZXJUYXNrQnlUaW1lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ADMIN/Desktop/TodoMVC/Views/Todoitem/Skipped.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9kb2l0ZW1cU2tpcHBlZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ADMIN/Desktop/TodoMVC/Views/Todoitem/TaskDone.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9kb2l0ZW1cVGFza0RvbmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ADMIN/Desktop/TodoMVC/Views/Todoitem/Today.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9kb2l0ZW1cVG9kYXkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ADMIN/Desktop/TodoMVC/Views/Todoitem/Upcoming.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9kb2l0ZW1cVXBjb21pbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ADMIN/Desktop/TodoMVC/Views/Todoitem/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9kb2l0ZW1cVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ADMIN/Desktop/TodoMVC/Views/User/Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxEYXNoYm9hcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ADMIN/Desktop/TodoMVC/Views/User/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ADMIN/Desktop/TodoMVC/Views/User/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ADMIN/Desktop/TodoMVC/Views/User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ADMIN/Desktop/TodoMVC/Views/User/SignIn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxTaWduSW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ADMIN/Desktop/TodoMVC/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ADMIN/Desktop/TodoMVC/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

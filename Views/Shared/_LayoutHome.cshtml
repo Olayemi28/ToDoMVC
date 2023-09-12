@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+ <html lang="en" class="no-js"> 
+    <head>
+        <title>Unique To-Do Application</title>		
+		
+        <link rel="stylesheet" href="HomePage/css/font-awesome.min.css">
+		<!-- Twitter Bootstrap css -->
+        <link rel="stylesheet" href="HomePage/css/bootstrap.min.css">
+		<!-- jquery.fancybox  -->
+        <link rel="stylesheet" href="HomePage/css/jquery.fancybox.css">
+		<!-- animate -->
+        <link rel="stylesheet" href="HomePage/css/animate.css">
+		<!-- Main Stylesheet -->
+        <link rel="stylesheet" href="HomePage/css/main.css">
+		<!-- media-queries -->
+        <link rel="stylesheet" href="HomePage/css/media-queries.css">
+
+		<!-- Modernizer Script for old Browsers -->
+        <script src="js/modernizr-2.6.2.min.js"></script>
+
+    </head>
+	
+    <body id="body">
+	
+		<!-- preloader -->
+		<div id="preloader">
+			<img src="HomePage/img/preloader.gif" alt="Preloader">
+		</div>
+		<!-- end preloader -->
+
+        <!-- 
+        Fixed Navigation
+        ==================================== -->
+        <header id="navigation" class="navbar-fixed-top navbar">
+            <div class="container">
+                <div class="navbar-header">
+                    <!-- responsive nav button -->
+					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <i class="fa fa-bars fa-2x"></i>
+                    </button>
+					<!-- /responsive nav button -->
+					
+					<!-- logo -->
+                    <a class="navbar-brand" href="#body">
+						<h1 id="unique">
+							<img src="HomePage/img/logo.png" alt="To-Do App">
+						</h1>
+					</a>
+					<!-- /logo -->
+                </div>
+
+				<!-- main nav -->
+                <nav class="collapse navbar-collapse navbar-right" role="navigation">
+                    <ul id="nav" class="nav navbar-nav">
+                        
+                        <li><a href="#works">Sign-Up</a></li> 
+                        <li><a  href="User/SignIn">Sign-In</a></li>
+                        @* <li><a href="http://google.com">Contact</a></li> *@
+						
+                    </ul>
+                </nav>
+				<!-- /main nav -->
+				
+            </div>
+        </header>
+        <!--
+        End Fixed Navigation
+        ==================================== -->
+		
+        <!--
+        Home Slider
+        ==================================== -->
+		<div class="main-container">
+            <main role="main">
+                @RenderBody()
+            </main>
+       </div>
+		<section id="slider">
+			<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+			
+				<!-- Indicators bullet -->
+				<ol class="carousel-indicators">
+					<li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+					<li data-target="#carousel-example-generic" data-slide-to="1"></li>
+				</ol>
+				<!-- End Indicators bullet -->				
+				
+				<!-- Wrapper for slides -->
+				<div class="carousel-inner" role="listbox">
+					
+					<!-- single slide -->
+					<div class="item active" style="background-image: url(HomePage/img/banner.jpg);">
+						<div class="carousel-caption">
+							<h2 data-wow-duration="700ms" data-wow-delay="500ms" class="wow bounceInDown animated">Unique<span> To-Do</span> App!</h2>
+							<h3 data-wow-duration="1000ms" class="wow slideInLeft animated"><span class="color">A very</span> reliable App.</h3>
+							<p data-wow-duration="1000ms" class="wow slideInRight animated">We are here to help you in achieving your daily activities</p>
+							
+						</div>
+					</div>
+			
+					<div class="item" style="background-image: url(HomePage/img/banner.jpg);">
+						<div class="carousel-caption">
+							<h2 data-wow-duration="500ms" data-wow-delay="500ms" class="wow bounceInDown animated">Unique<span> To-Do</span> App!</h2>
+							<h3 data-wow-duration="500ms" class="wow slideInLeft animated"><span class="color">Your satisfaction </span> is our concern.</h3>
+							<p data-wow-duration="500ms" class="wow slideInRight animated">Your number one Task Scheduling Application.</p>
+						</div>
+					</div>
+				</div>
+				
+			</div>
+		</section>
+
+		@* <a href="javascript:void(0);" id="back-top"><i class="fa fa-angle-up fa-3x"></i></a> *@
+
+		<!-- Essential jQuery Plugins
+		================================================== -->
+		<!-- Main jQuery -->
+        <script src="HomePage/js/jquery-1.11.1.min.js"></script>
+		<!-- Single Page Nav -->
+        <script src="HomePage/js/jquery.singlePageNav.min.js"></script>
+		<!-- Twitter Bootstrap -->
+        <script src="HomePage/js/bootstrap.min.js"></script>
+		<!-- jquery.fancybox.pack -->
+        <script src="HomePage/js/jquery.fancybox.pack.js"></script>
+		<!-- jquery.mixitup.min -->
+        <script src="HomePage/js/jquery.mixitup.min.js"></script>
+		<!-- jquery.parallax -->
+        <script src="HomePage/js/jquery.parallax-1.1.3.js"></script>
+		<!-- jquery.countTo -->
+        <script src="HomePage/js/jquery-countTo.js"></script>
+		<!-- jquery.appear -->
+        <script src="HomePage/js/jquery.appear.js"></script>
+		<!-- Contact form validation -->
+		<script src="http://cdnjs.cloudflare.com/ajax/libs/jquery.form/3.32/jquery.form.js"></script>
+		<script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.11.1/jquery.validate.min.js"></script>
+		<!-- Google Map -->
+        @* <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=false"></script> *@
+		<!-- jquery easing -->
+        <script src="HomePage/js/jquery.easing.min.js"></script>
+		<!-- jquery easing -->
+        <script src="HomePage/js/wow.min.js"></script>
+		@* <script>
+			var wow = new WOW ({
+				boxClass:     'wow',      // animated element css class (default is wow)
+				animateClass: 'animated', // animation css class (default is animated)
+				offset:       120,          // distance to the element when triggering the animation (default is 0)
+				mobile:       false,       // trigger animations on mobile devices (default is true)
+				live:         true        // act on asynchronously loaded content (default is true)
+			  }
+			);
+			wow.init();
+		</script>  *@
+		<!-- Custom Functions -->
+        <script src="HomePage/js/custom.js"></script>
+    </body>
+</html>
